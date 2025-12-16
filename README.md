@@ -26,7 +26,7 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="80" height="80" /></td>
     <td><img src="https://miro.medium.com/v2/resize:fit:601/1*e8u6teTHyalPejIBauj4Jw.png" alt="Docker" width="100" height="80" /></td>
     <td><img src="https://img.icons8.com/m_rounded/512/FFFFFF/github.png" alt="GitHub" width="95" height="95" /></td>
-    <td><img src="https://frenesssi.wordpress.com/wp-content/uploads/2008/03/988-22540.png" alt="Linux" width="95" height="95" /></td>
+    <td><img src="https://www.chobits.com/wp-content/uploads/2023/08/debian_original_logo_icon_146566.png" alt="Debian" width="95" height="95" /></td>
   </tr>
 </table>
 
