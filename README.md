@@ -1,14 +1,14 @@
 <h1 align="center">Olá! Eu sou o William Medeiros 👋</h1>
 
 <p align="center">
-  Desenvolvedor Backend focado em <strong>Java com Spring e também low code com Mendix</strong> <br>
+  Desenvolvedor Backend focado em <strong>Java com Spring Boot e também low code com Mendix</strong> <br>
   Apaixonado por resolver problemas com código e criar soluções inteligentes ⚙️🚀
 </p>
 
 ---
 ### 📌 Sobre mim
 
-- 🎓 Estudante e entusiasta em desenvolvimento backend com o ecossistema .NET e Mendix
+- 🎓 Estudante e entusiasta em desenvolvimento backend com o ecossistema Java e Mendix
 - 💼 Em busca de oportunidades para aplicar meus conhecimentos em projetos reais  
 - 📚 Atualmente estudando Java, Spring Boot e SQL, além de futuramente melhorar meus conhecimentos em Docker. 
 - 🛠️ Sempre aprendendo mais sobre boas práticas, testes e arquitetura de software  
