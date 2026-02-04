@@ -20,7 +20,7 @@
 <table align="center">
   <tr>
     <td><img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" alt="JAVA" width="95" height="95" /></td>
-    <td><img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring" width="95" height="95" /></td>
+    <td><img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring" width="85" height="85" /></td>
     <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/intellij-idea-ide-icon.png" alt="IntelliJIDE" width="80" height="80" /></td>
     <td><img src="https://www.pyze.com/wp-content/uploads/2021/03/mendix-logo-1.png" alt="Mendix" width="80" height="80" /></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="80" height="80" /></td>
