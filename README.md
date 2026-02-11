@@ -38,7 +38,15 @@ Tenho interesse em construção de APIs, regras de negócio, persistência de da
 
 ---
 
-**Em desenvolvimento**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=willbackdeveloper&theme=nord_dark"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=willbackdeveloper&theme=nord_dark"/>
+</p>
+
+---
+
+## Em desenvolvimento
 - APIs REST
 - Arquitetura de software
 - Docker
