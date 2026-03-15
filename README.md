@@ -32,7 +32,7 @@ Tenho interesse em construção de APIs, regras de negócio, persistência de da
     <td><img src=".github/assets/Mendix.png" alt="Mendix" width="100" height="100" /></td>
     <td><img src=".github/assets/RiderIDE.png" alt="RiderIDE" width="100" height="100" /></td>
     <td><img src=".github/assets/Docker.png" alt="Docker" width="100" height="100" /></td>
-    <td><img src=".github/assets/Ubuntu.png" alt="Ubuntu" width="100" height="100" /></td>
+    <td><img src=".github/assets/Debian.png" alt="Debian" width="100" height="100" /></td>
   </tr>
 </table>
 
