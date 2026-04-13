@@ -1,14 +1,14 @@
 <h1 align="center">William Medeiros</h1>
 
 <p align="center">
-  Estagiário em Desenvolvimento de Software | Backend Java com Spring Boot
+  Estagiário em Desenvolvimento de Software | Backend .NET com C#
 </p>
 
 ---
 
 ## Sobre
 
-Sou estagiário em desenvolvimento de software, com atuação atual em **Mendix (low-code)** e foco de estudos e especialização em **desenvolvimento backend no ecosistema Spring utilizando Java**.
+Sou estagiário em desenvolvimento de software, com atuação atual em **Mendix (low-code)** e foco de estudos e especialização em **desenvolvimento backend no ecosistema .NET utilizando C# e ASP.NET Core**.
 
 Tenho interesse em construção de APIs, regras de negócio, persistência de dados e arquitetura de sistemas, buscando sempre evoluir em boas práticas, organização de código e qualidade de software.
 
@@ -26,10 +26,11 @@ Tenho interesse em construção de APIs, regras de negócio, persistência de da
 
 <table align="center">
   <tr>
-    <td><img src=".github/assets/JAVA.png" alt="JAVA" width="100" height="100" /></td>
-    <td><img src=".github/assets/Springboot.png" alt="SPRING" width="100" height="100" /></td>
+    <td><img src=".github/assets/Dotnet.png" alt="DOTNET" width="100" height="100" /></td>
+    <td><img src=".github/assets/CSharp.png" alt="C#" width="100" height="100" /></td>
+    <td><img src=".github/assets/ASPNET.png" alt="ASPNET" width="100" height="100" /></td>
     <td><img src=".github/assets/Mendix.png" alt="Mendix" width="100" height="100" /></td>
-    <td><img src=".github/assets/IntelliJ.png" alt="IntelliJ" width="100" height="100" /></td>
+    <td><img src=".github/assets/RiderIDE.png" alt="RiderIDE" width="100" height="100" /></td>
     <td><img src=".github/assets/Docker.png" alt="Docker" width="100" height="100" /></td>
     <td><img src=".github/assets/Debian.png" alt="Debian" width="100" height="100" /></td>
   </tr>
@@ -64,7 +65,7 @@ Tenho interesse em construção de APIs, regras de negócio, persistência de da
 
 ## Objetivo Profissional
 
-Consolidar minha carreira como **Desenvolvedor Backend Java**, aplicando conhecimentos técnicos em projetos reais, com foco em soluções escaláveis, bem estruturadas e alinhadas às necessidades do negócio.
+Consolidar minha carreira como **Desenvolvedor Backend .NET com C#**, aplicando conhecimentos técnicos em projetos reais, com foco em soluções escaláveis, bem estruturadas e alinhadas às necessidades do negócio.
 
 ---
 
