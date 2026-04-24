@@ -26,10 +26,10 @@ Tenho interesse em construção de APIs, regras de negócio, persistência de da
 
 <table align="center">
   <tr>
-    <td><img src=".github/assets/JAVA.png" alt="JAVA" width="100" height="100" /></td>
-    <td><img src=".github/assets/Springboot.png" alt="Spring" width="100" height="100" /></td>
-    <td><img src=".github/assets/Mendix.png" alt="Mendix" width="100" height="100" /></td>
-    <td><img src=".github/assets/IntelliJ.png" alt="IntelliJ" width="100" height="100" /></td>
+    <td><img src=".github/assets/Java.png" alt="JAVA" width="100" height="100" /></td>
+    <td><img src=".github/assets/Spring.png" alt="Spring" width="100" height="100" /></td>
+    <td><img src=".github/assets/IntelliJ.png" alt="Mendix" width="100" height="100" /></td>
+    <td><img src=".github/assets/Mendix.png" alt="IntelliJ" width="100" height="100" /></td>
     <td><img src=".github/assets/Docker.png" alt="Docker" width="100" height="100" /></td>
     <td><img src=".github/assets/Debian.png" alt="Debian" width="100" height="100" /></td>
   </tr>
@@ -40,7 +40,6 @@ Tenho interesse em construção de APIs, regras de negócio, persistência de da
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=willbackdeveloper&theme=nord_dark"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=willbackdeveloper&theme=nord_dark"/>
 </p>
 
 ---
