@@ -26,7 +26,7 @@ Tenho interesse em construção de APIs, regras de negócio, persistência de da
 
 <table align="center">
   <tr>
-    <td><img src=".github/assets/Java.png" alt="JAVA" width="100" height="100" /></td>
+    <td><img src=".github/assets/Java.png" alt="Java" width="100" height="100" /></td>
     <td><img src=".github/assets/Spring.png" alt="Spring" width="100" height="100" /></td>
     <td><img src=".github/assets/IntelliJ.png" alt="Mendix" width="100" height="100" /></td>
     <td><img src=".github/assets/Mendix.png" alt="IntelliJ" width="100" height="100" /></td>
@@ -39,7 +39,6 @@ Tenho interesse em construção de APIs, regras de negócio, persistência de da
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=willbackdeveloper&theme=nord_dark"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
