@@ -28,7 +28,7 @@ Tenho interesse em construção de APIs, regras de negócio, persistência de da
   <tr>
     <td><img src=".github/assets/Java.png" alt="JAVA" width="100" height="100" /></td>
     <td><img src=".github/assets/Spring.png" alt="SPRINGBOOT" width="100" height="100" /></td>
-    <td><img src=".github/assets/Intellij.png" alt="INTELLIJIDE" width="100" height="100" /></td>
+    <td><img src=".github/assets/Intellij.png" alt="INTELLIJ" width="100" height="100" /></td>
     <td><img src=".github/assets/Mendix.png" alt="MENDIX" width="100" height="100" /></td>
     <td><img src=".github/assets/Docker.png" alt="DOCKER" width="100" height="100" /></td>
     <td><img src=".github/assets/Debian.png" alt="DEBIAN" width="100" height="100" /></td>
