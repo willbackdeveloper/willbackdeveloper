@@ -1,14 +1,14 @@
 <h1 align="center">William Medeiros</h1>
 
 <p align="center">
-  Estagiário em Desenvolvimento de Software | Backend Java com Spring Boot
+  Estagiário em Desenvolvimento de Software | Backend C# com .NET
 </p>
 
 ---
 
 ## Sobre
 
-Sou estagiário em desenvolvimento de software, com atuação atual na plataforma **Mendix (low-code)** e foco de estudos e especialização em **desenvolvimento backend no ecosistema Spring Boot utilizando a linguagem Java**.
+Sou estagiário em desenvolvimento de software, com conhecimento em Java e atuação recente com desenvolvedor na plataforma **Mendix (low-code)**, atualmente tenho focado meus estudos para especialização em **desenvolvimento backend no ecosistema .NET utilizando a linguagem C#**.
 
 Tenho interesse em construção de APIs, regras de negócio, persistência de dados e arquitetura de sistemas, buscando sempre evoluir em boas práticas, organização de código e qualidade de software.
 
@@ -26,12 +26,12 @@ Tenho interesse em construção de APIs, regras de negócio, persistência de da
 
 <table align="center">
   <tr>
-    <td><img src=".github/assets/Java.png" alt="JAVA" width="100" height="100" /></td>
-    <td><img src=".github/assets/Spring.png" alt="SPRINGBOOT" width="100" height="100" /></td>
-    <td><img src=".github/assets/IntelliJ.png" alt="INTELLIJ" width="100" height="100" /></td>
-    <td><img src=".github/assets/Mendix.png" alt="MENDIX" width="100" height="100" /></td>
-    <td><img src=".github/assets/Docker.png" alt="DOCKER" width="100" height="100" /></td>
-    <td><img src=".github/assets/Debian.png" alt="DEBIAN" width="100" height="100" /></td>
+    <td><img src=".github/assets/Icon-Csharp.png" alt="CSHARP" width="100" height="100" /></td>
+    <td><img src=".github/assets/Icon-Dotnet.png" alt="DOTNET" width="100" height="100" /></td>
+    <td><img src=".github/assets/Icon-Java.png" alt="JAVA" width="100" height="100" /></td>
+    <td><img src=".github/assets/Icon-Mendix.png" alt="MENDIX" width="100" height="100" /></td>
+    <td><img src=".github/assets/Icon-Docker.png" alt="DOCKER" width="100" height="100" /></td>
+    <td><img src=".github/assets/Icon-Debian.png" alt="DEBIAN" width="100" height="100" /></td>
   </tr>
 </table>
 
@@ -62,7 +62,7 @@ Tenho interesse em construção de APIs, regras de negócio, persistência de da
 
 ## Objetivo Profissional
 
-Consolidar minha carreira como **Desenvolvedor Backend Java com Spring Boot**, aplicando conhecimentos técnicos em projetos reais, com foco em soluções escaláveis, bem estruturadas e alinhadas às necessidades do negócio.
+Consolidar minha carreira como **Desenvolvedor Backend C# com .NET**, aplicando conhecimentos técnicos em projetos reais, com foco em soluções escaláveis, bem estruturadas e alinhadas às necessidades do negócio.
 
 ---
 
