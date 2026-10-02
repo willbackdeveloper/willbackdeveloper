@@ -1,14 +1,14 @@
 <h1 align="center">William Medeiros</h1>
 
 <p align="center">
-  Estagiário em Desenvolvimento de Software | Backend C# com .NET.
+  Estagiário em Desenvolvimento de Software | Backend Java com Spring Boot.
 </p>
 
 ---
 
 ## Sobre
 
-Sou estagiário em desenvolvimento de software, com conhecimento em **Java e C#** e atuação recente com desenvolvedor na plataforma **Mendix (low-code)**, atualmente tenho focado meus estudos para especialização em **desenvolvimento backend utilizando o ecosistema .NET com a linguagem C#**.
+Sou estagiário em desenvolvimento de software, com conhecimento em **C#** e atuação recente com desenvolvedor na plataforma **Mendix (low-code)**, atualmente tenho focado meus estudos para especialização em **desenvolvimento backend utilizando o ecosistema Spring com a linguagem Java**.
 
 Tenho interesse em construção de APIs, regras de negócio, persistência de dados e arquitetura de sistemas, buscando sempre evoluir em boas práticas, organização de código e qualidade de software.
 
@@ -27,7 +27,7 @@ Tenho interesse em construção de APIs, regras de negócio, persistência de da
 <table align="center">
   <tr>
     <td><img src=".github/assets/Icon-Java.png" alt="JAVA" width="120" height="120" /></td>
-    <td><img src=".github/assets/Icon-Dotnet.png" alt="Dotnet" width="120" height="120" /></td>
+    <td><img src=".github/assets/Icon-Spring.png" alt="SPRING" width="120" height="120" /></td>
     <td><img src=".github/assets/Icon-Csharp.png" alt="C#" width="120" height="120" /></td>
     <td><img src=".github/assets/Icon-Mendix.png" alt="MENDIX" width="120" height="120" /></td>
     <td><img src=".github/assets/Icon-Docker.png" alt="DOCKER" width="120" height="120" /></td>
@@ -62,7 +62,7 @@ Tenho interesse em construção de APIs, regras de negócio, persistência de da
 
 ## Objetivo Profissional
 
-Consolidar minha carreira como **Desenvolvedor Backend C# com .NET**, aplicando conhecimentos técnicos em projetos reais, com foco em soluções escaláveis, bem estruturadas e alinhadas às necessidades do negócio.
+Consolidar minha carreira como **Desenvolvedor Backend Java com Spring Boot**, aplicando conhecimentos técnicos em projetos reais, com foco em soluções escaláveis, bem estruturadas e alinhadas às necessidades do negócio.
 
 ---
 
